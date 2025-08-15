@@ -1,4 +1,3 @@
-
 # 📈 Stock Price Predictor (Basic Linear Regression)
 
 This project was completed as part of my **AI Internship** at **Codec Technologies India**.  
@@ -24,14 +23,14 @@ The goal was to build a simple **machine learning model** that predicts **the ne
 ---
 
 ## 📂 Project Structure
-```
 
+```
 ├── Stock_prediction.ipynb    # Main script
 ├── stock_predictions.csv       # Saved predictions
 ├── prediction-chart.png       # Chart Image
 ├── README.md                   # Project documentation
+```
 
-````
 
 ---
 
@@ -45,20 +44,20 @@ The goal was to build a simple **machine learning model** that predicts **the ne
 
 ## ▶️ How to Run
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/your-username/stock-price-predictor.git
    cd stock-price-predictor
-```
+   ```
 
 2. **Install dependencies**
 
-   ```bash
+   ```
    pip install yfinance pandas scikit-learn matplotlib
    ```
 
 3. **Run the script**
 
-   ```bash
+   ```
    python stock_price_predictor.py
    ```
 
